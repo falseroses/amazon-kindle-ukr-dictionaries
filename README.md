@@ -10,5 +10,11 @@
 | Український Фразеологічний Словник           |  .mobi     | [Ukrayins.kii.Frazieloghichnii.Slovnik.-.Naukova.dumka.mobi](https://github.com/falseroses/amazon-kindle-ukr-dictionaries/releases/download/main/Ukrayins.kii.Frazieloghichnii.Slovnik.-.Naukova.dumka.mobi) |
 ---------------------------------------------------------------------------------------
 
+## 🛠️ Додавання на Kindle
+- Підключіть Kindle до комп'ютера за допомогою USB.
+- Відкрийте папку ***documents***.
+- Помістіть нові словники в папку ***dictionaries***.
+- Від'єднайте Kindle від комп'ютера.
+
 ## 📚 За основу взято
 - https://github.com/egorsmkv/speech-recognition-uk
